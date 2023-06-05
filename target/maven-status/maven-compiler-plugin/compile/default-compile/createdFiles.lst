@@ -1,0 +1,7 @@
+com\lexer\iftm\Lexico.class
+com\lexer\iftm\Token.class
+com\lexer\iftm\Classe.class
+com\lexer\iftm\Sintatico.class
+com\lexer\iftm\Valor.class
+com\lexer\iftm\App.class
+com\lexer\iftm\Valor$TipoValor.class
